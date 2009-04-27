@@ -1,6 +1,6 @@
 use inc::Module::Install;
-name 'Franck';
-all_from 'lib/Franck.pm';
+name 'Nagi';
+all_from 'lib/Nagi.pm';
 
 # requires '';
 

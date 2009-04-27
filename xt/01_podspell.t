@@ -7,4 +7,4 @@ all_pod_files_spelling_ok('lib');
 __DATA__
 Tokuhiro Matsuno
 tokuhirom  slkjfd gmail.com
-Franck
+Nagi
